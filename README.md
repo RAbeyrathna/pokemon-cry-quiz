@@ -23,6 +23,7 @@ Take a look at the live demo [here](https://pokemon-quiz.rabeyrathna.com/)!
   - [ ] Choose amount of rounds to play
   - [ ] Add time limit option
   - [ ] Pokemon hint as a silhoutte if needed
+  - [ ] Choose the generations you would like included
 - Styling
   - [ ] Base website design
 - Other
