@@ -4,7 +4,7 @@ This project was created for the Coder Academy hackathon challenge.
 
 This is a simple webpage game where players will hear a Pokémon cry and will be given options to choose from to identify the pokemon.
 
-Take a look at the live demo [here](https://rabeyrathna.com/pokemon-cry-quiz/)!
+Take a look at the live demo [here](https://pokemon-quiz.rabeyrathna.com/)!
 
 ## Features
 
