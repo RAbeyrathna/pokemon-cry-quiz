@@ -13,7 +13,7 @@ Take a look at the live demo [here](https://pokemon-quiz.rabeyrathna.com/)!
 - HTML
 - JavaScript
 - React
-- [PokeAPI](https://pokeapi.co/)
+- [PokéAPI](https://pokeapi.co/)
 
 ## To Do
 
