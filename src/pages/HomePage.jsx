@@ -4,7 +4,7 @@ export default function HomePage(){
     return(<>
         <h1>Pokémon Cry Quiz</h1>
         <p>Welcome! Press the start button below to play the game!</p>
-        <Link to={"/quiz"}>Start the Quiz!</Link>
+        <Link to={"/game"}>Start the Quiz!</Link>
     </>
     );
 }

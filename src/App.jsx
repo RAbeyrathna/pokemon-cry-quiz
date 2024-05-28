@@ -7,8 +7,8 @@ function App() {
     <Routes>
       <Route path="/" element={<Template />}>
         <Route index element={<HomePage/>} />
-        {/* <Route path="quiz" element={<QuizPage/>} />
-        <Route path="/quiz/gameover" element={<GameOverPage/>} /> */}
+        {/* <Route path="game" element={<QuizPage/>} />
+        <Route path="/game/results" element={<ResultsPage/>} /> */}
       </Route>
     </Routes>
   );
